@@ -43,8 +43,6 @@ La información se visualiza en:
 ## 👨‍💻 Autor
 
 Proyecto desarrollado por **Jaziel Carballo**  
-Especialista en inteligencia artificial, desarrollo web y tecnología aplicada a comunidades.
-
 Última actualización: **Mayo 2025**
 
 ---
