@@ -1,4 +1,4 @@
-# Puyulómetro AOE2 – Estadísticas en Tiempo Real
+# Teamboard AOE2 – Estadísticas en Tiempo Real
 
 Este proyecto muestra un dashboard interactivo con estadísticas en tiempo real de jugadores de **Age of Empires II**, utilizando la API pública de [AoE2 Companion](https://aoe2companion.com/).
 
